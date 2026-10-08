@@ -427,5 +427,90 @@ window.GUIDE_ENRICHMENT={
       "year": "1900–1917",
       "license": "Public domain"
     }
-  ]
+  ],
+  "archives": {
+    "michuriny": [
+      {
+        "label": "1910–1917: фасад дома",
+        "url": "https://www.citywalls.ru/house159.html",
+        "kind": "Ссылка на архивный материал"
+      },
+      {
+        "label": "1963–1965: вид 1-й линии",
+        "url": "https://www.citywalls.ru/house159.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ],
+    "ilyin": [
+      {
+        "label": "До 1960 года: фасад доходного дома",
+        "url": "https://www.citywalls.ru/house446.html",
+        "kind": "Ссылка на архивный материал"
+      },
+      {
+        "label": "1956–1965: фотоархив района",
+        "url": "https://pastvu.com/p/135711",
+        "kind": "Ссылка на архивный материал"
+      },
+      {
+        "label": "1916 и 1924: виды из квартиры Добужинского (живопись)",
+        "url": "https://www.citywalls.ru/house446.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ],
+    "shile": [
+      {
+        "label": "1960: историческая фотография фасада",
+        "url": "https://www.citywalls.ru/house427.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ],
+    "fogt": [
+      {
+        "label": "1960: историческая фотография фасада",
+        "url": "https://www.citywalls.ru/house5879.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ],
+    "bobrov": [
+      {
+        "label": "1944: вид здания",
+        "url": "https://www.citywalls.ru/house5942.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ],
+    "frank": [
+      {
+        "label": "1949: историческая фотография фасада",
+        "url": "https://www.citywalls.ru/house544.html",
+        "kind": "Ссылка на архивный материал"
+      },
+      {
+        "label": "1906: публикация в архитектурном ежегоднике",
+        "url": "https://www.citywalls.ru/house544.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ],
+    "radus": [
+      {
+        "label": "1915–1916: исторический интерьер квартиры",
+        "url": "https://www.citywalls.ru/house187.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ],
+    "chekhonin": [
+      {
+        "label": "1913–1928: архивные сведения о проживании художника",
+        "url": "https://www.citywalls.ru/house5818.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ],
+    "pel": [
+      {
+        "label": "1913: аптечный фасад, вывески и лабораторный корпус",
+        "url": "https://www.citywalls.ru/house202.html",
+        "kind": "Ссылка на архивный материал"
+      }
+    ]
+  }
 };
