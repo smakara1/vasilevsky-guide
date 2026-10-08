@@ -276,15 +276,17 @@ window.GUIDE_ENRICHMENT={
   "images": {
     "tanya": [
       "1705. St. Petersburg. 2nd line of the V.I., 13.jpg",
-      "Tanya Savicheva memorial plaque Saint Petersburg.JPG"
+      "Tanya Savicheva memorial plaque Saint Petersburg.JPG",
+      "Большой пр, 6, 2-я линия 13 01.jpg"
     ],
     "benois": [
       "1724. St. Petersburg. 3rd line of the Vasilievsky Island, 20.jpg",
-      "Дом Бенуа Эркер.jpg"
+      "3rd line VO 20 SPB.jpg",
+      "Дом архитектора Бенуа.jpg"
     ],
     "pel": [
       "531. St. Petersburg. 7th Line, 16-18.jpg",
-      "Башня грифонов.jpg"
+      "7-я линия В.О., д.16-18, Днепровский пер. д.1. Товарищество доктора Пеля.jpg"
     ],
     "bolshakov": [
       "532. St. Petersburg. 7th Line, 26.jpg"
@@ -296,19 +298,19 @@ window.GUIDE_ENRICHMENT={
       "1 линия 40.jpg"
     ],
     "smirnov": [
+      "2-я линия, 29 01.jpg",
       "2-я линия, 29 02.jpg",
-      "С-Петербург, ул.Репина 30, двор (1).jpg"
+      "2-я линия, 29 03.jpg"
     ],
     "ilyin": [
       "11 линия ВО 20 СПб 01.jpg",
+      "11 линия ВО 20 СПб 02.jpg",
       "11-я линия, 20 01.jpg"
     ],
     "fogt": [
       "12-я линия, 19 02.jpg"
     ],
     "kudryavtsev": [
-      "Ru-SPb-15-lin-70-2.jpg",
-      "Ru-SPb-15-lin-70-5.jpg",
       "14th and 15th lines 70 2016-07 1468784079.jpg"
     ],
     "kotelnikov": [
@@ -317,30 +319,56 @@ window.GUIDE_ENRICHMENT={
     "chekhonin": [],
     "bobrov": [],
     "radus": [],
-    "smolhouse": [],
+    "smolhouse": [
+      "17 линия 70 01.jpg",
+      "Доходный дом Смоленского кладбища 1.jpg",
+      "Доходный дом Смоленского кладбища 2.jpg"
+    ],
     "river": [],
     "cemetery": [],
     "shile": [],
-    "bremme": [],
+    "bremme": [
+      "6152. St. Petersburg. Bremme mansion.jpg"
+    ],
     "troekurov": [],
     "voroniny": [],
     "dolgo": [],
-    "optina": [],
+    "optina": [
+      "1068. Санкт-Петербург. Церковь Успения Богоматери.jpg",
+      "1069. St. Petersburg. Lieutenant Schmidt embankment, 27.jpg"
+    ],
     "warning": [],
     "balabanov": [],
     "blok": []
   },
   "labels": {
-    "1705. St. Petersburg. 2nd line of the V.I., 13.jpg": "Дом Тани Савичевой, современная фотография",
-    "Tanya Savicheva memorial plaque Saint Petersburg.JPG": "Мемориальная доска Тани Савичевой",
-    "1724. St. Petersburg. 3rd line of the Vasilievsky Island, 20.jpg": "Дом архитектора Бенуа, современная фотография",
+    "1705. St. Petersburg. 2nd line of the V.I., 13.jpg": "1705. St. Petersburg. 2nd line of the V.I., 13.jpg",
+    "Tanya Savicheva memorial plaque Saint Petersburg.JPG": "Tanya Savicheva memorial plaque Saint Petersburg.JPG",
+    "1724. St. Petersburg. 3rd line of the Vasilievsky Island, 20.jpg": "1724. St. Petersburg. 3rd line of the Vasilievsky Island, 20.jpg",
     "Дом Бенуа Эркер.jpg": "Деталь эркера дома Бенуа",
-    "531. St. Petersburg. 7th Line, 16-18.jpg": "Аптека Пеля, современный фасад",
+    "531. St. Petersburg. 7th Line, 16-18.jpg": "531. St. Petersburg. 7th Line, 16-18.jpg",
     "Башня грифонов.jpg": "Башня в бывшем лабораторном дворе",
-    "5420. St. Petersburg. 6th line of V.I., 37.jpg": "Дом Мельцера",
+    "5420. St. Petersburg. 6th line of V.I., 37.jpg": "5420. St. Petersburg. 6th line of V.I., 37.jpg",
     "532. St. Petersburg. 7th Line, 26.jpg": "Доходный дом Большакова",
     "12-я линия, 19 02.jpg": "Дом Фогт и Попова",
-    "14 Linia V O buildings 31 (right) and 29 (left) with winter sunlight.jpg": "Дом на 14-й линии, 31 (справа)"
+    "14 Linia V O buildings 31 (right) and 29 (left) with winter sunlight.jpg": "14 Linia V O buildings 31 (right) and 29 (left) with winter sunlight.jpg",
+    "Большой пр, 6, 2-я линия 13 01.jpg": "Большой пр, 6, 2-я линия 13 01.jpg",
+    "3rd line VO 20 SPB.jpg": "3rd line VO 20 SPB.jpg",
+    "Дом архитектора Бенуа.jpg": "Дом архитектора Бенуа.jpg",
+    "7-я линия В.О., д.16-18, Днепровский пер. д.1. Товарищество доктора Пеля.jpg": "7-я линия В.О., д.16-18, Днепровский пер. д.1. Товарищество доктора Пеля.jpg",
+    "2-я линия, 29 01.jpg": "2-я линия, 29 01.jpg",
+    "2-я линия, 29 02.jpg": "2-я линия, 29 02.jpg",
+    "2-я линия, 29 03.jpg": "2-я линия, 29 03.jpg",
+    "11 линия ВО 20 СПб 01.jpg": "11 линия ВО 20 СПб 01.jpg",
+    "11 линия ВО 20 СПб 02.jpg": "11 линия ВО 20 СПб 02.jpg",
+    "11-я линия, 20 01.jpg": "11-я линия, 20 01.jpg",
+    "14th and 15th lines 70 2016-07 1468784079.jpg": "14th and 15th lines 70 2016-07 1468784079.jpg",
+    "1068. Санкт-Петербург. Церковь Успения Богоматери.jpg": "1068. Санкт-Петербург. Церковь Успения Богоматери.jpg",
+    "1069. St. Petersburg. Lieutenant Schmidt embankment, 27.jpg": "1069. St. Petersburg. Lieutenant Schmidt embankment, 27.jpg",
+    "17 линия 70 01.jpg": "17 линия 70 01.jpg",
+    "Доходный дом Смоленского кладбища 1.jpg": "Доходный дом Смоленского кладбища 1.jpg",
+    "Доходный дом Смоленского кладбища 2.jpg": "Доходный дом Смоленского кладбища 2.jpg",
+    "6152. St. Petersburg. Bremme mansion.jpg": "6152. St. Petersburg. Bremme mansion.jpg"
   },
   "categories": {
     "tanya": "https://commons.wikimedia.org/wiki/Category:Tanya_Savicheva_House",
@@ -350,12 +378,31 @@ window.GUIDE_ENRICHMENT={
     "smirnov": "https://commons.wikimedia.org/wiki/Category:2_Linia,_29_-_Smirnov_house",
     "ilyin": "https://commons.wikimedia.org/wiki/Category:11_Linia,_20_-_Ilyin_revenue_house",
     "fogt": "https://commons.wikimedia.org/wiki/Category:12_Linia,_19_-_Fogt_and_Popov_house",
-    "kudryavtsev": "https://commons.wikimedia.org/wiki/Category:15_Linia,_70_-_%27House_with_sunflowers%27",
+    "kudryavtsev": "https://commons.wikimedia.org/wiki/Category:15_Linia,_70_-_'House_with_sunflowers'",
     "bremme": "https://commons.wikimedia.org/wiki/Category:Bremme_mansion",
     "bolshakov": "https://commons.wikimedia.org/wiki/Category:7_Linia_(Vasilievsky_Island)",
     "michuriny": "https://commons.wikimedia.org/wiki/Category:1_Linia,_40_-_Repina_Street,_41",
     "radus": "https://www.citywalls.ru/house187.html",
-    "kotelnikov": "https://commons.wikimedia.org/wiki/Category:14_Linia,_31_-_house_where_Gleb_Kotelnikov_lived"
+    "kotelnikov": "https://commons.wikimedia.org/wiki/Category:14_Linia,_31_-_house_where_Gleb_Kotelnikov_lived",
+    "bobrov": "https://commons.wikimedia.org/wiki/Category:14_Linia,_21",
+    "smolhouse": "https://commons.wikimedia.org/wiki/Category:17_Linia,_70",
+    "optina": "https://commons.wikimedia.org/wiki/Category:Church_of_the_Dormition_of_the_Theotokos_(Optina_Monastery_town_church)",
+    "niedermuller": "https://commons.wikimedia.org/wiki/Category:Niedermuller_revenue_house",
+    "troekurov": "https://commons.wikimedia.org/wiki/Category:Troekurov's_House,_Saint_Petersburg",
+    "bestuzhev": "https://commons.wikimedia.org/wiki/Category:10_Linia_(Vasilievsky_Island),_31",
+    "voroniny": "https://commons.wikimedia.org/wiki/Category:5_Linia_(Vasilievsky_Island)",
+    "shile": "https://commons.wikimedia.org/wiki/Category:10_Linia_(Vasilievsky_Island)",
+    "river": "https://commons.wikimedia.org/wiki/Category:Smolenka_River",
+    "cemetery": "https://commons.wikimedia.org/wiki/Category:Smolenskoye_Orthodox_Cemetery",
+    "balabanov": "https://commons.wikimedia.org/wiki/Category:Smolenskoye_Orthodox_Cemetery",
+    "blok": "https://commons.wikimedia.org/wiki/Category:Smolenskoye_Orthodox_Cemetery",
+    "semenov": "https://commons.wikimedia.org/wiki/Category:Smolenskoye_Orthodox_Cemetery",
+    "bosse": "https://commons.wikimedia.org/wiki/Category:4_Linia_(Vasilievsky_Island)",
+    "botkin": "https://commons.wikimedia.org/wiki/Category:Mikhail_Botkin_Mansion",
+    "kuindzhi": "https://commons.wikimedia.org/wiki/Category:10_Linia_(Vasilievsky_Island)",
+    "frank": "https://commons.wikimedia.org/wiki/Category:20_Linia_(Vasilievsky_Island)",
+    "dolgo": "https://commons.wikimedia.org/wiki/Category:8_Linia_(Vasilievsky_Island)",
+    "warning": "https://commons.wikimedia.org/wiki/Category:22_Linia_(Vasilievsky_Island)"
   },
   "historic": [
     {
